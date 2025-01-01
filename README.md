@@ -34,7 +34,7 @@ Here’s how the system looks while running:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/vehicle-tracking.git
+   git clone https://github.com/Akshay-K8/Real-Time-Vehicle-Detection-and-Counting-System.git
    ```
    ```
    cd vehicle-tracking
