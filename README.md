@@ -37,7 +37,7 @@ Here’s how the system looks while running:
    git clone https://github.com/Akshay-K8/Real-Time-Vehicle-Detection-and-Counting-System.git
    ```
    ```
-   cd vehicle-tracking
+   cd Real-Time-Vehicle-Detection-and-Counting-System
    ```
 2. Install the required dependencies
    ```
