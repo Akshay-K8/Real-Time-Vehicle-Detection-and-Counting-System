@@ -1,6 +1,6 @@
-# 🚗 Vehicle Tracking and Counting System 🚦
+# 🚗 Real-Time Vehicle Detection and Counting System 🚦
 
-Welcome to the **Vehicle Tracking and Counting System** project! This project is designed to track and count vehicles like cars, trucks, buses, and bikes from a video feed using the **YOLOv5s** object detection model. 🚀
+Welcome to the **Real-Time Vehicle Detection and Counting System** project! This project is designed to track and count vehicles like cars, trucks, buses, and bikes from a video feed using the **YOLOv5s** object detection model. 🚀
 
 ---
 
